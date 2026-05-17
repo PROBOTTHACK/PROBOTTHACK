@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=2000&color=2DD4BF&center=true&vCenter=true&width=500&lines=%24+whoami+%E2%80%94+AI+engineer+%7C+RAG+%7C+Agentic+AI+%7C+Full+Stack)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=2000&color=2DD4BF&center=true&vCenter=true&width=500&lines=%24+whoami+%E2%80%94+AI+engineer+%7C+RAG+%7C+Agentic+AI+%7C+Full+Stack)](https://github.com/PROBOTTHACK)
 
 </div>
 
